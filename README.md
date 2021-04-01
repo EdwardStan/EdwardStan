@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdwardStan
 - 👀 I’m interested in Unity game developement
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on learning more atm.
+- 💞️ I’m looking to collaborate on any small unity project so I can learn
 - 📫 How to reach me edward.d.stan@gmail.com
